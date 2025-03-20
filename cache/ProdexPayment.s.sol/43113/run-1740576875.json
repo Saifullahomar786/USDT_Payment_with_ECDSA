@@ -1,0 +1,7 @@
+{
+  "transactions": [
+    {
+      "rpc": "https://ava-testnet.public.blastapi.io/ext/bc/C/rpc"
+    }
+  ]
+}
